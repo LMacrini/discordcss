@@ -1,0 +1,11 @@
+/**
+ * @name Catppuccin Macchiato Pink
+ * @description Soothing pastel theme
+ * @author Seija
+ */
+
+@import url("https://catppuccin.github.io/discord/dist/catppuccin-macchiato-pink.theme.css");
+
+.winButtons_c38106 {
+  display: none;
+}
